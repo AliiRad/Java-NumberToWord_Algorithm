@@ -2,7 +2,7 @@ public class Main {
 
     public static String FINAL_ANSWER="";
 
-    private static final String[] onesNames = {
+    private static final String[] oneDigits = {
             "صفر",
             "یک",
             "دو",
@@ -15,7 +15,7 @@ public class Main {
             "نه"
     };
 
-    private static final String[] tensNames = {
+    private static final String[] twoDigits = {
 
             "ده",
             "بیست",
@@ -30,7 +30,7 @@ public class Main {
 
 
 
-    private static final String [] twoDigits = {
+    private static final String [] tensNumber = {
             "یازده",
             "دوازده",
             "سیزده",
